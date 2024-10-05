@@ -1,0 +1,33 @@
+body {
+    background-color: #fee0ba;
+    text-align: center;
+}
+
+h2 {
+    font-size: xx-large;
+}
+
+.img {
+    padding: 20px auto;
+}
+
+.chocolate img {
+    border-radius: 9px;
+    margin: 10px auto;
+    max-width: 100%;
+}
+
+p {
+    text-align: center;
+    line-height: 1.5;
+}
+
+.links a {
+    padding: 10px 15px;
+    color: #852f00;
+}
+
+a:hover {
+    cursor: pointer;
+    color: black;
+}
